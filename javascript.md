@@ -1,28 +1,28 @@
-1)D
+1)D - D - GREEN
 
 
-2) idk
+2) idk - C- RED 
 
 
-3) A
+3) A - B - RED
 
 
-4) B
+4) B - A - RED
 
 
-5) C
+5) C - A - RED
 
 
-6) A
+6) A - A - GREEN
 
 
-7) C
+7) C - C - GREEN
 
 
-8) A
+8) A - D - RED
 
 
-9) A
+9) A - A - GREEN
 
 
-10) D
+10) D - A - RED
